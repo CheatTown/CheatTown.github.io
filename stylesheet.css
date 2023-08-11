@@ -224,8 +224,8 @@ p {
   display: flex;
   justify-content: center;
   list-style: none;
-  margin-top: 10px;
-  margin-bottom: 1rem;
+  margin-top: 90%;
+  margin-bottom: 10px;
   padding-left: 0;
 }
 .social-icons>li {
