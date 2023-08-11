@@ -264,12 +264,6 @@ p {
 .social-icons .social-icon-fb::before {
   background-image: url("...");
 }
-.social-icons .social-icon-vk::before {
-  background-image: url("...");
-}
-.social-icons .social-icon-telegram::before {
-  background-image: url("...");
-}
 .social-icons .social-icon-youtube::before {
   background-image: url("...");
 }
