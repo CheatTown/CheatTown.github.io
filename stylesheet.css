@@ -1,4 +1,4 @@
-wwwwwww@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body,
 html {
@@ -258,7 +258,7 @@ p {
   background: transparent no-repeat center center;
   background-size: 100% 100%;
 }
-.social-icons .social-icon-twitter::before {
+.social-icons .social-icon-discord::before {
   background-image: url("https://nektony.com/wp-content/uploads/2019/07/discord-icon.png");
 }
 .social-icons .social-icon-fb::before {
